@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Loginauthentication/lib/mysql-connector-j-9.6.0.jar",
+        "Loginauthentication/lib/mysql-connector-j-9.7.0.jar"
+    ]
+}
